@@ -29,7 +29,7 @@ A robust, notebook-first Telegram channel downloader with an interactive GUI. Sc
 
 1. **Clone and setup environment:**
 ```bash
-git clone <your-repo-url>
+gh repo clone gl-ankit-kumar/Telegram-Files-Downloader-from-a-Channel
 cd telegram-downloader
 
 # Create conda environment (recommended)
@@ -141,4 +141,3 @@ For issues and questions:
 1. Check the troubleshooting section above
 2. Review Telethon documentation for API-related issues
 3. Open a GitHub issue with detailed description
-```
